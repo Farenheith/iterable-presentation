@@ -1,7 +1,7 @@
 {
   "extends": "@codibre/confs/tsconfig.json",
   "compilerOptions": {
-    "target": "es2016",
+    "target": "es2017",
     "rootDir": "./src",
     "outDir": "./dist",
     "declaration": false
